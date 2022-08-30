@@ -19,7 +19,7 @@ class KeyBoard():
 
 def main():
     k = KeyBoard()
-    print(k.getKey("a"))
+    print(k.getKey("KP_MINUS"))
 
 if __name__ =='__main__':
     while True:
